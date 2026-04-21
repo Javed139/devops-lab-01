@@ -1,2 +1,9 @@
 # devops-lab-01
+Lab-1 content
+Lab-2 content
+Lab-3 content
+Lab-4 content
+Lab-5 content
+Lab-6 content
+Lab-7 content
 Lab-8 content
